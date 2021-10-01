@@ -23,7 +23,7 @@
 
             {
                 name: 'steam',
-                link: 'https://steamcommunity.com/id/cryptomonedas/'
+                link: 'https://steamcommunity.com/id/gabanna/'
             },
 
         ];
